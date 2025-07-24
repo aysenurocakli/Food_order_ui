@@ -1,0 +1,22 @@
+{
+
+  "hamburgerBaslik":"Chicken Burger",
+  "hamburgerIcerik":"Chicken patties (65 gr), lettuce",
+  "hamburgerFiyat":"$ 4.5",
+  "soganYazi":"Onion",
+  "domatesYazi":"Tomato",
+  "tursuYazi":"Pickle",
+  "mayonezYazi":"Mayonnaise",
+  "patatesKizartmasiYazi":"Fries",
+  "peynirYazi":"Cheese",
+  "mantarYazi":"Mushroom",
+  "patatesFiyat":"$ 1.42",
+  "peynirFiyat":"$ 0.66",
+  "mantarFiyat":"$ 0.95",
+  "toplamAciklama":"2x Chicken Burger, 0x Fries, 0x Cheese, 0x Mushroom",
+  "toplamFiyat":"Total: $9.00",
+  "siparisButon":"Order Now",
+  "sepeteEkleButon":"Add To Card"
+
+
+}

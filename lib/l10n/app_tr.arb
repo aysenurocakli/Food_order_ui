@@ -1,0 +1,22 @@
+{
+
+  "hamburgerBaslik":"Tavuk Burger",
+  "hamburgerIcerik":"Tavuk köftesi (65 gr), marul",
+  "hamburgerFiyat":"4.5 ₺",
+  "soganYazi":"Soğan",
+  "domatesYazi":"Domates",
+  "tursuYazi":"Turşu",
+  "mayonezYazi":"Mayonez",
+  "patatesKizartmasiYazi":"Patates",
+  "peynirYazi":"Peynir",
+  "mantarYazi":"Mantar",
+  "patatesFiyat":"1.42 ₺",
+  "peynirFiyat":"0.66 ₺",
+  "mantarFiyat":"0.95 ₺",
+  "toplamAciklama":"2x Tavuk Burger, 0x Patates Kızartması, 0x Peynir, 0x Mantar",
+  "toplamFiyat":"Toplam: 365 ₺",
+  "siparisButon":"Hızlı Sipariş",
+  "sepeteEkleButon":"Sepete Ekle"
+
+
+}

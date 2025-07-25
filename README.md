@@ -5,7 +5,8 @@ Tasarım aşaması tamamen Figma kullanılarak hazırlanmıştır.
 
 ## Özellikler
 - Figma tasarımı
-- Flutter responsive UI
+- Flutter responsive UI(çoklu ekran desteği)
+- Çoklu dil desteği
 - Sipariş ekranı örneği
 - Checkbox, buton, toplam hesaplama
 
